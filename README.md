@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Hackerblog
 - 🌱 I’m currently learning SKIT College
 - 💬 Ask me about Certified Ethical Hacker
-- 📫 How to reach me: https://hackervarun.hackerblog.co.in
+- 📫 How to reach me: https://varunbundela.link
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: 
