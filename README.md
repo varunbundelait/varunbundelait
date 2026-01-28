@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there 👋, I’m Varun Bundela
+
+Welcome to my GitHub profile! I'm a passionate learner and developer working on exciting projects.  
+
+---
+
+### 🌱 About Me
+- 🔭 I’m currently working on **[Hackerblog](https://hackerblog.co.in)**  
+- 🎓 I have **completed my Bachelor's Degree is BCA** from **SKIT College**  
+- 💬 Ask me about **Certified Ethical Hacking**  
+- 📫 Reach me: [varunbundela.link](https://varunbundela.link)  
 
 
-**varunbundelait/varunbundelait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Skills
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Frameworks & Libraries:** Node.js, Express, React (frontend in progress)  
+- **Databases:** MongoDB, Mongoose  
+- **Tools & Platforms:** Git, GitHub, Render, Vercel, Cloudinary  
 
-- 🔭 I’m currently working on Hackerblog
-- 🌱 I’m currently learning SKIT College
-- 💬 Ask me about Certified Ethical Hacker
-- 📫 How to reach me: https://varunbundela.link
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: 
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projects
+| Project | Description | Link |
+|---------|-------------|------|
+| Hackerblog | A blogging platform with full-stack features | [Live Site](https://hackerblog.co.in) |
+| Learning Management System | Backend API with Node.js, Express & MongoDB | [GitHub Repo](https://github.com/Divyanshi2408/Learning-Management-System) |
+
+---
+
+### 📊 GitHub Stats
+![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunbundelait&show_icons=true&theme=radical)
+
+---
+
+### ⚡ Fun Fact
+I love exploring cybersecurity, ethical hacking, and building things that make life easier!  
