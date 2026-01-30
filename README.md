@@ -29,10 +29,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer working on 
 
 ---
 
-### 📊 GitHub Stats
-![Varun's GitHub stats](https://github-readme-stats.vercel.app/api?username=varunbundelait&show_icons=true&theme=radical)
 
----
 
 ### ⚡ Fun Fact
 I love exploring cybersecurity, ethical hacking, and building things that make life easier!  
