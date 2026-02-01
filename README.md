@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer working on 
 | Project | Description | Link |
 |---------|-------------|------|
 | Hackerblog | A blogging platform with full-stack features | [Live Site](https://hackerblog.co.in) |
-| Learning Management System | Backend API with Node.js, Express & MongoDB | [GitHub Repo](https://github.com/varunbundelait/lms1) |
+
 
 ---
 
