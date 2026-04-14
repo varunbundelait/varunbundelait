@@ -24,13 +24,11 @@ Welcome to my GitHub profile! I'm a passionate learner and developer working on 
 ### 🚀 Projects
 | Project | Description | Link |
 |---------|-------------|------|
-| Hackerblog | A blogging platform with full-stack features | [Live Site](https://hackerblog.co.in) |
-| Whitedavid23 | A complete e-learning website | [Live Site](https://whitedavid23.org) |
-| EraService | A complete website of event management | [Live Site](https://eraservices.in) |
-| Upstrc | Web applications serving to handle bus reservation tickets, reservation status check, and other services. | [Live Site](https://eraservices.in) |
-| EraService | A complete website of event management | [Live Site](https://eraservices.in) |
-| EraService | A complete website of event management | [Live Site](https://eraservices.in) |
-| EraService | A complete website of event management | [Live Site](https://eraservices.in) |
+| Hackerblog | A comprehensive blog platform tailored for cybersecurity enthusiasts and ethical hackers to share knowledge and latest news | [Live Site](https://hackerblog.co.in) |
+|Hackerblog Android App | The mobile companion for Hackerblog, offering native Android experience with real-time updates and notifications|[Live Site](https://play.google.com/store/apps/details?id=xyz.hackerblog&hl=en_US&gl=US)|
+| Whitedavid23 | Official portal for Whitedavid23 Institute, featuring course management, student registration, and an admin dashboard | [Live Site](https://whitedavid23.org) |
+| EraService | Event management website for EraServices, featuring event listings, registration, and event management | [Live Site](https://eraservices.in) |
+| Consult Hagnos | A corporate web presence built for a consulting firm to showcase their services, methodologies, and contact interfaces | [Live Site](https://consulthagnos.com/) |
 
 
 
