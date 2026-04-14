@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer working on 
 |---------|-------------|------|
 | Hackerblog | A blogging platform with full-stack features | [Live Site](https://hackerblog.co.in) |
 | Whitedavid23 | A complete e-learning website | [Live Site](https://whitedavid23.org) |
-| EraService | A complete website of event management [Live Site](https://eraservices.in) |
+| EraService | A complete website of event management | [Live Site](https://eraservices.in) |
 
 
 
