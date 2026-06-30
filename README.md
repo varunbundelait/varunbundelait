@@ -1,4 +1,4 @@
-### Hi there 👋, I’m Varun Bundela
+### Hi there 👋, I’m Varun Singh Bundela
 
 Welcome to my GitHub profile! I'm a passionate learner and developer working on exciting projects.  
 
