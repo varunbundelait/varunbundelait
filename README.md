@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm a passionate learner and developer working on 
 | Whitedavid23 | Official portal for Whitedavid23 Institute, featuring course management, student registration, and an admin dashboard | [Live Site](https://whitedavid23.org) |
 | EraServices | Event management website for EraServices, featuring event listings, registration, and event management | [Live Site](https://eraservices.in) |
 | Consult Hagnos | A corporate web presence built for a consulting firm to showcase their services, methodologies, and contact interfaces | [Live Site](https://consulthagnos.com/) |
+| Hackerblog Chatbot | A modern SaaS AI chatbot powered by Google's Gemini API, a responsive user interface. | [Live Site](https://chatbot-one-navy-28.vercel.app/) |
 
 
 
