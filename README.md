@@ -1,3 +1,27 @@
+# 💫 About Me:
+- 🔭 I’m currently working on **[Hackerblog](https://hackerblog.co.in)**  <br>- 🎓 I have **completed my Bachelor's Degree is BCA** from **SKIT College**  <br>- 💬 Ask me about **Certified Ethical Hacker**  <br>- 📫 Reach me: [varunbundela.link](https://varunbundela.link)  
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varunsinghbundela) 
+
+# 💻 Tech Stack:
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=varunbundelait&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=varunbundelait&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=varunbundelait&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=varunbundelait&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=varunbundelait&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
 ### Hi there 👋, I’m Varun Singh Bundela
 
 Welcome to my GitHub profile! I'm a passionate learner and developer working on exciting projects.  
