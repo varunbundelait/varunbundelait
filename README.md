@@ -1,3 +1,65 @@
+rumaisarehan2005-svg/README.md
+
+
+██████╗ ██╗   ██╗███╗   ███╗ █████╗ ██╗███████╗ █████╗
+██╔══██╗██║   ██║████╗ ████║██╔══██╗██║██╔════╝██╔══██╗
+██████╔╝██║   ██║██╔████╔██║███████║██║███████╗███████║
+██╔══██╗██║   ██║██║╚██╔╝██║██╔══██║██║╚════██║██╔══██║
+██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║██║███████║██║  ██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+< AI Student | Cybersecurity | Building Automations />
+Typing SVG
+
+
+👾 About Me
+An AI student passionate about automation, cybersecurity & building real-world AI tools. Email Me 👉 ✉️ your@email.com For Collaboration/Project or Anything Else. 😊
+
+class Rumaisa:
+    def __init__(self):
+        self.role        = "AI Undergrad"
+        self.languages   = ["Python", "Java", "SQL"]
+        self.certs       = ["Google Cybersecurity Certificate"]
+        self.currently   = "Building AI automations with n8n"
+        self.learning    = ["n8n workflows", "AI agents", "automation pipelines"]
+        self.ask_me      = ["Python", "Cybersecurity basics", "AI automation"]
+        self.fun_fact    = "I want to automate everything before I graduate 🚀"
+
+    def collaborate(self):
+        return "AI/ML projects, cybersecurity tools, open-source automations"
+🔭 Working on	AI automation workflows using n8n
+🌱 Learning	n8n, AI agents & automation pipelines
+👯 Collaborate	AI/ML & open-source cybersecurity projects
+💬 Ask me about	Python, Cybersecurity, AI automation
+⚡ Fun fact	Automating everything before graduation 🚀
+🌐 Socials
+LinkedIn Instagram GitHub Email
+
+💻 Tech Stack
+Python Java SQL n8n Google Cloud NumPy Pandas GitHub VS Code
+
+🔐 Certifications
+Google Cybersecurity
+
+🟢 Google Cybersecurity Certificate — Foundations of cybersecurity, threat analysis & incident response
+⚙️ Currently Working On
+$ rumaisa --status
+
+[✓] Learning n8n for AI workflow automation
+[✓] Exploring AI agent architectures
+[~] Building real-world automation projects
+[~] Growing GitHub portfolio
+[>] Next: Deploy first AI automation project
+📊 GitHub Stats
+  
+🐍 Contribution Snake
+Snake animation
+✍️ Random Dev Quote
+
+
+
+
+> Always learning. Always building. Never stopping. 🖤
+
 ### Hi there 👋, I’m Varun Singh Bundela
 
 Welcome to my GitHub profile! I'm a passionate learner and developer working on exciting projects.  
