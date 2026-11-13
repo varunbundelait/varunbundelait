@@ -143,7 +143,7 @@ LMS-style platform with courses, labs & assessments
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=varunbundelait&theme=tokyonight&hide_border=true" alt="streak stats"/>
 <br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunbundelait&theme=tokyo-night&hide_border=true" width="100%"/>
+<!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=varunbundelait&theme=tokyo-night&hide_border=true" width="100%"/>-->
 </div>
 ---
  
