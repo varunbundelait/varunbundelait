@@ -132,7 +132,7 @@ LMS-style platform with courses, labs & assessments
 </tr>
 <tr>
   <td width="33%" valign="top" align="center">
-    **🤖 AI Portfolio Chatbot – Intelligent Virtual Assistant
+    **🤖 AI Portfolio Chatbot
     <br/>
     AI-powered portfolio with an interactive virtual assistant, showcasing skills, projects, and professional identity
     <br/><br/>
