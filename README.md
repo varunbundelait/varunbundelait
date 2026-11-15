@@ -130,6 +130,15 @@ LMS-style platform with courses, labs & assessments
  
 </td>
 </tr>
+<tr>
+  <td>
+    ** 
+    <br/>
+    AI-powered portfolio with an interactive virtual assistant, showcasing skills, projects, and professional identity
+    <br/><br/>
+    
+  </td>
+</tr>
 </table>
 </div>
 ---
