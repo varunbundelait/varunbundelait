@@ -129,14 +129,15 @@ LMS-style platform with courses, labs & assessments
 <a href="https://lms.hackerblog.co.in/"><img src="https://img.shields.io/badge/View%20Project-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
  
 </td>
-<td width="33%" valign="top" align="center">
+</tr>
+<tr>
+  <td width="33%" valign="top" align="center">
     **🤖 AI Portfolio Chatbot – Intelligent Virtual Assistant
     <br/>
     AI-powered portfolio with an interactive virtual assistant, showcasing skills, projects, and professional identity
     <br/><br/>
     <a href="https://portfolio-ai-beige-delta.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </td>
-
 </tr>
 </table>
 </div>
