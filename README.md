@@ -138,7 +138,7 @@ LMS-style platform with courses, labs & assessments
     <br/><br/>
     <a href="https://portfolio-ai-beige-delta.vercel.app/"><img src="https://img.shields.io/badge/View%20Project-00c6ff?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </td>
-<td>
+<td width="33%" valign="top" align="center">
   ** 📄 Quick Read AI Summary
   <br/>
   Instantly generates concise, AI-powered summaries of lengthy articles and blog posts.
